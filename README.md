@@ -15,6 +15,8 @@ I enjoy looking at security from both sides: understanding how attacks work help
 ### 🛠️ Tools
 SIEM (Splunk) · Burp Suite · Wireshark · Linux · Git
 
-### 📫 Find me
-Blog: [Hashnode](https://hashnode.com/@haktangonen) · LinkedIn: [Haktan Gönen](https://www.linkedin.com/in/haktangonen)
+### 📝 Latest writing
+- [EDR Nedir? (Turkish)](https://haktangonen.hashnode.dev/edr-nedir)
 
+### 📫 Find me
+Blog: [haktangonen.hashnode.dev](https://haktangonen.hashnode.dev) · LinkedIn: [Haktan Gönen](https://www.linkedin.com/in/haktangonen)
